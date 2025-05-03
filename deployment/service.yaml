@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: wize-identity-service
+  namespace: wizeworks
+  labels:
+    app: wize-identity
+spec:
+  selector:
+    app: wize-identity
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 3000
+  type: ClusterIP
