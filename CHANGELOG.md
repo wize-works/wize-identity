@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/wize-works/wize-identity/compare/v1.1.0...v1.2.0) (2025-05-04)
+
+
+### Features
+
+* update @wizeworks/graphql-factory-mongo to version 1.27.0 ([ddf14be](https://github.com/wize-works/wize-identity/commit/ddf14becc3aa6bea382c14a5a579b2122b271e65))
+
 # [1.1.0](https://github.com/wize-works/wize-identity/compare/v1.0.0...v1.1.0) (2025-05-03)
 
 
