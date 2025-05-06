@@ -1,3 +1,17 @@
+# [1.3.0](https://github.com/wize-works/wize-identity/compare/v1.2.0...v1.3.0) (2025-05-06)
+
+
+### Bug Fixes
+
+* correct indentation in deploy.yml for AKS admin access ([ea698a7](https://github.com/wize-works/wize-identity/commit/ea698a7ace8c9d068be890f8c142f811028c2303))
+* remove unnecessary whitespace in AKS context setup ([014a01a](https://github.com/wize-works/wize-identity/commit/014a01ac7b70fded29ce3f8053702b7fa2adc13a))
+* update deploy.yml for non-interactive AKS auth ([6720f72](https://github.com/wize-works/wize-identity/commit/6720f720f93406480f99bfe11c00d4982c1c29e9))
+
+
+### Features
+
+* update @wizeworks/graphql-factory-mongo to version 1.31.0 ([40508e3](https://github.com/wize-works/wize-identity/commit/40508e3858656f083f4b75391585297b41162d0e))
+
 # [1.2.0](https://github.com/wize-works/wize-identity/compare/v1.1.0...v1.2.0) (2025-05-04)
 
 
