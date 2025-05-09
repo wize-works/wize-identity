@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/wize-works/wize-identity/compare/v1.3.1...v1.3.2) (2025-05-09)
+
+
+### Bug Fixes
+
+* update @wizeworks/graphql-factory-mongo to version 1.33.6 ([6645975](https://github.com/wize-works/wize-identity/commit/66459751dc67f364ded795cc6bbfa75be2bfb393))
+
 ## [1.3.1](https://github.com/wize-works/wize-identity/compare/v1.3.0...v1.3.1) (2025-05-06)
 
 
